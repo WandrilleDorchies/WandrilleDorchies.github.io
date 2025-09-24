@@ -1,0 +1,27 @@
+---
+title: "Wandrille DORCHIES"
+format: html
+from: markdown+emoji
+image: docs/img/profil.jpg
+about:
+  template: trestles
+  image-width: 20em
+  image-shape: round
+  links:
+    - icon: github
+      text: Github
+      href: https.github.io/WandrilleDorchies
+      target: "_blank"
+    - icon: envelope
+      text: Email
+      href: mailto:wandrille.dorchies@gmail.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/wandrille-dorchies
+      target: "_blank"
+---
+
+::: {.justify}
+
+Hello ! My name is Wandrille Dorchies !
+:::
