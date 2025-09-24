@@ -1,0 +1,67 @@
+project:
+  type: website
+  render:
+    - "**/*.qmd"
+
+website:
+  favicon: docs/img/favicon-32x32.png
+  title: "Wandrille DORCHIES"
+  navbar:
+    background: "#AB8D3F"
+    left:
+      - href: index.qmd
+        text: Home
+      - text: CV & Academic projects
+        menu:
+          - href: "https://github.com/"
+            text: "Blank 1"
+            target: "_blank"
+          - href: "https://github.com/"
+            text: "Blank 2"
+            target: "_blank"
+          - href: "https://github.com/"
+            text: "Blank 3"
+            target: "_blank"
+          - href: "https://github.com/"
+            text: "Blank 4"
+            target: "_blank"
+          - href: "https://github.com/"
+            text: "blank 4.5"
+            target: "_blank"
+          - href: "https://github.com/"
+            text: "Blank 5"
+            target: "_blank"
+      - text: Personal Projects
+        menu:
+          - href: "https://github.com/"
+            text: "Basketball Dashboard"
+            target: "_blank"
+          - href: "https://github.com/"
+            text: "Running Dashboard"
+            target: "_blank"
+      - text: Hobbies
+        menu:
+          - href: docs/hobbies/sports.qmd
+            text: "Sports"
+          - href: docs/hobbies/other.qmd
+            text: "Other"
+    right:
+      - href: docs/bookmarks.qmd
+        text: Helpful Resources
+      - icon: github
+        href: https://github.com/WandrilleDorchies
+        target: "_blank"
+  page-footer:
+    right: |
+      Website built with [Quarto](https://quarto.org/){.external target="_blank"}<br>
+      [Source Code](https://github.com/WandrilleDorchies/WandrilleDorchies.github.io){.external target="_blank"}
+  repo-url: https://github.com/WandrilleDorchies/WandrilleDorchies.github.io
+  repo-branch: main
+  reader-mode: true
+
+format:
+  html:
+    theme:
+      dark: solar
+      light: cosmo
+    css: styles.css
