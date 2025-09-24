@@ -5,5 +5,54 @@
     "title": "Wandrille DORCHIES",
     "section": "",
     "text": "Hello ! My name is Wandrille Dorchies !"
+  },
+  {
+    "objectID": "docs/hobbies/hobbies_home.html",
+    "href": "docs/hobbies/hobbies_home.html",
+    "title": "Hobbies homepage",
+    "section": "",
+    "text": "I’ve been playing basketball casually for ~ 10 years now. I got my first taste of competition through ENSAI’s team.\n\n\n\nI’ve ran on and off for a long time. I picked it up seriously in late 2024. My current objective is the Stockholm marathon at the end of may 2025."
+  },
+  {
+    "objectID": "docs/hobbies/hobbies_home.html#basketball",
+    "href": "docs/hobbies/hobbies_home.html#basketball",
+    "title": "Hobbies homepage",
+    "section": "",
+    "text": "I’ve been playing basketball casually for ~ 10 years now. I got my first taste of competition through ENSAI’s team."
+  },
+  {
+    "objectID": "docs/hobbies/hobbies_home.html#running",
+    "href": "docs/hobbies/hobbies_home.html#running",
+    "title": "Hobbies homepage",
+    "section": "",
+    "text": "I’ve ran on and off for a long time. I picked it up seriously in late 2024. My current objective is the Stockholm marathon at the end of may 2025."
+  },
+  {
+    "objectID": "docs/personalprojects/datascience.html",
+    "href": "docs/personalprojects/datascience.html",
+    "title": "Data related stuff",
+    "section": "",
+    "text": "that would be like, a qmd with all the supervised learning methods we’ve seen in class prepared and just waiting for the data"
+  },
+  {
+    "objectID": "docs/personalprojects/datascience.html#plan-a-a-collection-of-rquarto-files-usable-as-templates-for-projects",
+    "href": "docs/personalprojects/datascience.html#plan-a-a-collection-of-rquarto-files-usable-as-templates-for-projects",
+    "title": "Data related stuff",
+    "section": "",
+    "text": "that would be like, a qmd with all the supervised learning methods we’ve seen in class prepared and just waiting for the data"
+  },
+  {
+    "objectID": "docs/personalprojects/datascience.html#plan-a-build-a-dashboard-to-track-the-performances-of-the",
+    "href": "docs/personalprojects/datascience.html#plan-a-build-a-dashboard-to-track-the-performances-of-the",
+    "title": "Data related stuff",
+    "section": "Plan A: Build a dashboard to track the performances of the",
+    "text": "Plan A: Build a dashboard to track the performances of the\nminnesota timberwolves in the NBA + add MN Lynx (wnba)"
+  },
+  {
+    "objectID": "docs/personalprojects/datascience.html#plan-b-build-a-dashboard-to-track-my-runs",
+    "href": "docs/personalprojects/datascience.html#plan-b-build-a-dashboard-to-track-my-runs",
+    "title": "Data related stuff",
+    "section": "Plan B: Build a dashboard to track my runs",
+    "text": "Plan B: Build a dashboard to track my runs"
   }
 ]
