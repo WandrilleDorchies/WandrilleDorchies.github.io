@@ -1,0 +1,22 @@
+---
+title: "Hobbies homepage"
+description: "the homepage for all my hobbies"
+format: html
+from: markdown+emoji
+---
+
+# Sports
+
+## Basketball
+
+I've been playing basketball casually for ~ 10 years now. I got my first taste of
+competition through ENSAI's team.
+
+## Running
+
+I've ran on and off for a long time. I picked it up seriously in late 2024. My current
+objective is the Stockholm marathon at the end of may 2025.
+
+# Scale Modeling & Painting
+
+TBD

@@ -1,0 +1,20 @@
+---
+title: "Data related stuff"
+description: "no desc yet"
+format: html
+from: markdown+emoji
+---
+
+# Plans : Academic resources
+
+## Plan A: a collection of R/quarto files usable as templates for projects
+
+that would be like, a qmd with all the supervised learning methods we've seen in class
+prepared and just waiting for the data
+
+# Plans : Interests-related data projects
+
+## Plan A: Build a dashboard to track the performances of the
+minnesota timberwolves in the  NBA + add MN Lynx (wnba)
+
+## Plan B: Build a dashboard to track my runs

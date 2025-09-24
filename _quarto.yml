@@ -7,7 +7,7 @@ website:
   favicon: docs/img/favicon-32x32.png
   title: "Wandrille DORCHIES"
   navbar:
-    background: "#AB8D3F"
+    background: "#396E9E"
     left:
       - href: index.qmd
         text: Home
@@ -62,6 +62,6 @@ website:
 format:
   html:
     theme:
-      dark: solar
-      light: cosmo
+      dark: cyborg
+      light: cerulean
     css: styles.css
