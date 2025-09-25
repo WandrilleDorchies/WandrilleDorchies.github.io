@@ -15,7 +15,7 @@ website:
         menu:
           - href: docs/academicprojects/CV.qmd
             text: "CV"
-          - href: "docs/academicprojects/ENSAI_projects.qmd
+          - href: docs/academicprojects/ENSAI_projects.qmd
             text: "ENSAI projects"
           - href: docs/academicprojects/DUT_projects.qmd
             text: "DUT projects"
