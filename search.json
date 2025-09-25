@@ -4,28 +4,7 @@
     "href": "index.html",
     "title": "Wandrille DORCHIES",
     "section": "",
-    "text": "Hello ! My name is Wandrille Dorchies !"
-  },
-  {
-    "objectID": "docs/hobbies/hobbies_home.html",
-    "href": "docs/hobbies/hobbies_home.html",
-    "title": "Hobbies homepage",
-    "section": "",
-    "text": "I’ve been playing basketball casually for ~ 10 years now. I got my first taste of competition through ENSAI’s team.\n\n\n\nI’ve ran on and off for a long time. I picked it up seriously in late 2024. My current objective is the Stockholm marathon at the end of may 2025."
-  },
-  {
-    "objectID": "docs/hobbies/hobbies_home.html#basketball",
-    "href": "docs/hobbies/hobbies_home.html#basketball",
-    "title": "Hobbies homepage",
-    "section": "",
-    "text": "I’ve been playing basketball casually for ~ 10 years now. I got my first taste of competition through ENSAI’s team."
-  },
-  {
-    "objectID": "docs/hobbies/hobbies_home.html#running",
-    "href": "docs/hobbies/hobbies_home.html#running",
-    "title": "Hobbies homepage",
-    "section": "",
-    "text": "I’ve ran on and off for a long time. I picked it up seriously in late 2024. My current objective is the Stockholm marathon at the end of may 2025."
+    "text": "Hello ! My name is Wandrille Dorchies, I am currently studying at ENSAI, enrolled in the Dip.Ing/MSc Data Science track."
   },
   {
     "objectID": "docs/personalprojects/datascience.html",
@@ -54,5 +33,82 @@
     "title": "Data related stuff",
     "section": "Plan B: Build a dashboard to track my runs",
     "text": "Plan B: Build a dashboard to track my runs"
+  },
+  {
+    "objectID": "docs/hobbies/sports.html",
+    "href": "docs/hobbies/sports.html",
+    "title": "Sports",
+    "section": "",
+    "text": "I have been playing basketball casually since 2015. I played for ENSAI’s team during the 2024-2025 academic year, in local inter-university competitions. I was also the captain of the basketball team at the TOSS, a France-wide inter-school tournament.\n\n\n\nMy favorite team is the Minnesota Timberwolves.\nPlanning on building a small dashboard to track their performances throughout the season, and even make some prediction, once I complete Lino Galiana’s Python for Data Science and MLOps courses.\n\n\n\n\n\n\nI picked up running seriously in late 2024. My goals for 2025-26 include the 10km at Tout Rennes Court in October ’25, the Onatera Paris 17 10km in November ’25 and the Stockholm Marathon in May ’26.\n\nPersonal bests\n\n\n\n\n\n\n\n\n\n\nDistance\nUnofficial PB\nUPB Date\nOfficial PB\nOPB Date\nOPB Event\n\n\n\n\n5km\n20:47\nSept ’24\n22:57\nOct ’24\nTout Rennes Court\n\n\n10km\n45:07\nSept ’24\nNA\nOct ’25\nTout Rennes Court\n\n\nHalf-Marathon\n1:46:52\nOct ’24\nNA\nNA\nNA\n\n\nMarathon\nNA\nNA\nNA\nMay ’26\nStockholm Marathon\n\n\n\n\n\n\nPlanning on building a small dashboard to track my progress."
+  },
+  {
+    "objectID": "docs/hobbies/sports.html#basketball",
+    "href": "docs/hobbies/sports.html#basketball",
+    "title": "Sports",
+    "section": "",
+    "text": "I have been playing basketball casually since 2015. I played for ENSAI’s team during the 2024-2025 academic year, in local inter-university competitions. I was also the captain of the basketball team at the TOSS, a France-wide inter-school tournament.\n\n\n\nMy favorite team is the Minnesota Timberwolves.\nPlanning on building a small dashboard to track their performances throughout the season, and even make some prediction, once I complete Lino Galiana’s Python for Data Science and MLOps courses."
+  },
+  {
+    "objectID": "docs/hobbies/sports.html#running",
+    "href": "docs/hobbies/sports.html#running",
+    "title": "Sports",
+    "section": "",
+    "text": "I picked up running seriously in late 2024. My goals for 2025-26 include the 10km at Tout Rennes Court in October ’25, the Onatera Paris 17 10km in November ’25 and the Stockholm Marathon in May ’26.\n\nPersonal bests\n\n\n\n\n\n\n\n\n\n\nDistance\nUnofficial PB\nUPB Date\nOfficial PB\nOPB Date\nOPB Event\n\n\n\n\n5km\n20:47\nSept ’24\n22:57\nOct ’24\nTout Rennes Court\n\n\n10km\n45:07\nSept ’24\nNA\nOct ’25\nTout Rennes Court\n\n\nHalf-Marathon\n1:46:52\nOct ’24\nNA\nNA\nNA\n\n\nMarathon\nNA\nNA\nNA\nMay ’26\nStockholm Marathon\n\n\n\n\n\n\nPlanning on building a small dashboard to track my progress."
+  },
+  {
+    "objectID": "docs/hobbies/hobbies_home.html",
+    "href": "docs/hobbies/hobbies_home.html",
+    "title": "Hobbies homepage",
+    "section": "",
+    "text": "I’ve been playing basketball casually for ~ 10 years now. I got my first taste of competition through ENSAI’s team.\n\n\n\nI’ve ran on and off for a long time. I picked it up seriously in late 2024. My current objective is the Stockholm marathon at the end of may 2025."
+  },
+  {
+    "objectID": "docs/hobbies/hobbies_home.html#basketball",
+    "href": "docs/hobbies/hobbies_home.html#basketball",
+    "title": "Hobbies homepage",
+    "section": "",
+    "text": "I’ve been playing basketball casually for ~ 10 years now. I got my first taste of competition through ENSAI’s team."
+  },
+  {
+    "objectID": "docs/hobbies/hobbies_home.html#running",
+    "href": "docs/hobbies/hobbies_home.html#running",
+    "title": "Hobbies homepage",
+    "section": "",
+    "text": "I’ve ran on and off for a long time. I picked it up seriously in late 2024. My current objective is the Stockholm marathon at the end of may 2025."
+  },
+  {
+    "objectID": "docs/academicprojects/DUT_projects.html",
+    "href": "docs/academicprojects/DUT_projects.html",
+    "title": "DUT projects",
+    "section": "",
+    "text": "WIP"
+  },
+  {
+    "objectID": "docs/academicprojects/ENSAI_projects.html",
+    "href": "docs/academicprojects/ENSAI_projects.html",
+    "title": "ENSAI projects",
+    "section": "",
+    "text": "WIP"
+  },
+  {
+    "objectID": "docs/hobbies/other.html",
+    "href": "docs/hobbies/other.html",
+    "title": "other hobbies",
+    "section": "",
+    "text": "WIP"
+  },
+  {
+    "objectID": "docs/personalprojects/bballboard.html",
+    "href": "docs/personalprojects/bballboard.html",
+    "title": "Running Dashboard",
+    "section": "",
+    "text": "WIP"
+  },
+  {
+    "objectID": "docs/personalprojects/runningboard.html",
+    "href": "docs/personalprojects/runningboard.html",
+    "title": "Basketball Dashbaord",
+    "section": "",
+    "text": "WIP"
   }
 ]
