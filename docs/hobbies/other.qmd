@@ -1,0 +1,8 @@
+---
+title: "other hobbies"
+description: "Page in construction"
+format: html
+from: markdown+emoji
+---
+
+# WIP

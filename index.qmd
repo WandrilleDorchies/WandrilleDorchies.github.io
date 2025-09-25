@@ -10,7 +10,7 @@ about:
   links:
     - icon: github
       text: Github
-      href: https.github.io/WandrilleDorchies
+      href: https://github.com/WandrilleDorchies
       target: "_blank"
     - icon: envelope
       text: Email
@@ -23,5 +23,6 @@ about:
 
 ::: {.justify}
 
-Hello ! My name is Wandrille Dorchies !
+Hello ! My name is Wandrille Dorchies, I am currently studying at ENSAI, enrolled in
+the Dip.Ing/MSc Data Science track.
 :::

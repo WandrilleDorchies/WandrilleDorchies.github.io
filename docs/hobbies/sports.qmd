@@ -1,0 +1,44 @@
+---
+title: "Sports"
+description: "And how they connect to data stuff"
+format: html
+from: markdown+emoji
+---
+
+# Sports
+
+## Basketball
+
+### Personal
+
+I have been playing basketball casually since 2015. I played for ENSAI's team during
+the 2024-2025 academic year, in local inter-university competitions. I was also the
+captain of the basketball team at the [TOSS](https://www.cs-sports.fr/toss/), a France-wide inter-school tournament.
+
+### In the NBA & related data project
+
+My favorite team is the Minnesota Timberwolves.
+
+Planning on building a small dashboard to track their performances throughout the season,
+and even make some prediction, once I complete Lino Galiana's Python for Data Science
+and MLOps courses.
+
+## Running
+
+### Personal
+
+I picked up running seriously in late 2024. My goals for 2025-26 include the 10km at [Tout Rennes Court]() in October '25, the [Onatera Paris 17 10km]() in November '25
+and the [Stockholm Marathon]() in May '26.
+
+| Distance | Unofficial PB | UPB Date | Official PB | OPB Date | OPB Event |
+|:---------|-----:|------:|------:|------:|------:|
+| 5km      | 20:47 | Sept '24 | 22:57 | Oct '24 | Tout Rennes Court |
+| 10km    |  45:07 | Sept '24 | NA | Oct '25 | Tout Rennes Court |
+| Half-Marathon | 1:46:52 | Oct '24 | NA | NA | NA |
+| Marathon |  NA | NA | NA | May '26 | Stockholm Marathon |
+
+: Personal bests
+
+### Related data project
+
+Planning on building a small dashboard to track my progress.
