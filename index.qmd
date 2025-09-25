@@ -2,7 +2,7 @@
 title: "Wandrille DORCHIES"
 format: html
 from: markdown+emoji
-image: docs/img/wandrille.jpg
+image: img/wandrille.jpg
 about:
   template: trestles
   image-width: 20em
